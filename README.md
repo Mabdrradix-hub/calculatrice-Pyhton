@@ -21,3 +21,4 @@ python main.py
 
 ## Auteur 
 Projet personnel d'apprentissage.
+Mamadou Bhoye Diallo pour d'autre Sylla
