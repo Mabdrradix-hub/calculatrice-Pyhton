@@ -1,0 +1,13 @@
+# Fichiers Pyhton temporaires
+__pycache__/
+*.pyc
+
+# Envireonnements virtuels
+.venv/
+venv/
+
+# fichiers sensibles
+.env
+
+# Fichiers de configuration vscode personnels
+.vscode/
