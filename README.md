@@ -1,4 +1,4 @@
-# Calculatrice Python
+# Calculatrice Python.
 
 ## Description 
 Une petite calculatrice développée avec Python.
